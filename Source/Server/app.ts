@@ -26,6 +26,6 @@ io.on('connection', socket => {
 });
 
 app.get('/', function (req, res) {
-  res.send('Hello World')
+  res.send('Hello World');
 });
  
