@@ -4,7 +4,7 @@
   "description": "client-server app",
   "main": "Project/server/app.js",
   "scripts": {
-    "start": "node Project/Server/app.js"  
+    "start": "node Project/Server/app.js"
   },
   "author": "Dmitry Bogov",
   "license": "ISC",
@@ -13,6 +13,13 @@
     "express": "^4.17.1",
     "socket.io": "^3.0.4",
     "typescript": "^4.1.3"
-  }
-  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryBogov/Express-SocketIO-Web-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DmitryBogov/Express-SocketIO-Web-Server/issues"
+  },
+  "homepage": "https://github.com/DmitryBogov/Express-SocketIO-Web-Server#readme"
 }
