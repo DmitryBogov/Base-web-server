@@ -14,6 +14,21 @@ and then
 ```
 npm intall
 ```
+Before start your server, you need to compile her.
+Use this command in project folder for auto compiling project to java script
+```
+tsc
+```
+
+<h2>Starting server</h2>
+
+Use `npm run start` for starting server or
+install <a href="https://www.npmjs.com/package/nodemon">nodemon</a> for auto restating
+
+      
+
+
+
 
 
 <h2>File sharing</h2>
