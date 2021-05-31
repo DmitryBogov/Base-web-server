@@ -1,0 +1,17 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "client-server app",
+  "main": "Project/server/app.js",
+  "scripts": {
+    "start": "node Project/Server/app.js"  
+  },
+  "author": "Dmitry Bogov",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4",
+    "typescript": "^4.1.3"
+  }
+}

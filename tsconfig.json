@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "outDir": "Project",
+        "watch": true,
+    },
+    "exclude": [
+        "node_modules",
+        "Resuources"
+    ]
+}
